@@ -1,6 +1,9 @@
 import React from "react";
 import logo from "./logo.svg";
 import "./App.css";
+import SearchResults from "../SearchResults/SearchResults.js";
+import Playlist from "../Playlist/Playlist.js";
+import SearchBar from "../SearchBar/SearchBar.js";
 
 class App extends React.Component {
   render() {
